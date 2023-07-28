@@ -3,7 +3,7 @@
 
 ### ✒️ &nbsp;<a name="cv">**CV**</a>
 
-CV available for viewing as a [website](https://patkarska.github.io/cv/) or for [download](https://drive.google.com/file/d/1wRZn6hq7aDL9OE7O6wGYPAPfEaNXa9Gl/view?usp=drive_link) from Google Drive. 
+CV available for viewing as a [website](https://patkarska.github.io/cv/) or for [download](https://drive.google.com/file/d/1uXhoU_4fUguFhBLP1iB39PxDmF-9alOG/view?usp=drive_link) from Google Drive. 
 
 ### 📪 &nbsp;<a name="contact">**How to reach me?**</a>
 
