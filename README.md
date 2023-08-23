@@ -1,6 +1,6 @@
 ### ✨&nbsp;<a name="about-me">About Me</a>
 
-<p align="justify">I am an ambitious and fast-learning individual, actively seeking new opportunities for professional growth in the IT field as a software programmer or software tester. I hold a degree in Computer Engineering and have recently obtained the ISTQB® Certified Tester - Foundation Level certificate. Currently, I am taking my first steps in test automation.</p>
+<p align="justify">I am an ambitious individual, actively seeking new opportunities for professional development in the IT field. I hold a degree in Computer Engineering. Recently, I obtained the ISTQB® Certified Tester - Foundation Level certificate. Currently, I am taking my first steps in test automation and developing my programming skills in Java and SQL. I am also interested in data analysis.</p>
 
 ### ✒️ &nbsp;<a name="cv">**CV**</a>
 
