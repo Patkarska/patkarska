@@ -4,7 +4,7 @@
 
 ### ✒️ &nbsp;<a name="cv">**CV**</a>
 
-CV available for viewing as a [website](https://patkarska.github.io/cv/) or for [download](https://drive.google.com/file/d/1C2_wg5uYX5ZoFW-B6ul_Wz-mJVmrXGFk/view?usp=drive_link) from Google Drive.
+CV available for viewing as a [website](https://patkarska.github.io/cv/) or for [download](https://drive.google.com/file/d/1zGDka77yonTRgnBOzu0EalSHgr_ia7DI/view) from Google Drive.
 
 ### 📪 &nbsp;<a name="contact">**How to reach me?**</a>
 
